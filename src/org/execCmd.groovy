@@ -1,4 +1,4 @@
-package.org;
+package org;
 
 // vars/execCmd.groovy
 def call(cmd, execPath=null) {
