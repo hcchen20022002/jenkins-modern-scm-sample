@@ -1,6 +1,6 @@
-package var;
+package org.foo;
 
-// vars/execCmd.groovy
+// org/foo/execCmd.groovy
 def call(cmd, execPath=null) {
     echo "[Command]: "+cmd
     def sout = new StringBuffer()
