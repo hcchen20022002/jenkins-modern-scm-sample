@@ -1,3 +1,5 @@
+package var;
+
 // vars/execCmd.groovy
 def call(cmd, execPath=null) {
     echo "[Command]: "+cmd
